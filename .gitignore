@@ -1,0 +1,10 @@
+#env
+.venv
+
+#app
+
+CRUD/__pycache__
+
+crud_app/__pycache__
+
+db.sqlite3
